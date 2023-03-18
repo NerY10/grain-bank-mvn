@@ -1,5 +1,3 @@
 # grain-bank-mvn
 
-Lab 3 Software Engineering
-
-Diogo Moura ER1458
+![example workflow](https://github.com/NerY10/grain-bank-mvn/actions/workflows/ci.yml/badge.svg)
